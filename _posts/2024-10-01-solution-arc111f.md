@@ -31,11 +31,6 @@ $$
 
 于是我们就可以列出最后的期望等于：
  
-$$
-
-\sum \limits_{i=1} \limits^{n} {p_i \over 2m+1} \sum \limits_{j=0} \limits^{q-1} g_{i,j} = \sum \limits_{i=1} \limits^{n} {p_i \over 2m+1} \cdot {(m-1)\over2} \cdot(q-{{h_i}^q - 1 \over h_i - 1}) 
-
-$$
 
 然后就推完了。
 
